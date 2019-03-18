@@ -5,4 +5,4 @@
   publish = "."
 
   # Default build command.
-  command = "go build"
+  command = "env && go build"
